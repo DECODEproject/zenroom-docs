@@ -1,1 +1,1 @@
-[remote](https://raw.githubusercontent.com/DECODEproject/Zenroom/master/bindings/python3/README.md)
+[remote](https://raw.githubusercontent.com/DECODEproject/Zenroom/master/bindings/javascript/README.md)
