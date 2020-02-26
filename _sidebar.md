@@ -1,4 +1,4 @@
-- [Zenroom](README.md "Zenroom")
+- [Getting started](README.md "Zenroom")
   - [Build](/remote/zenroom/build.md "Build Zenroom")  
 <!--- https://github.com/DECODEproject/Zenroom/wiki/Build ---> 
   - [Embed](/remote/zenroom/embed.md "Embed") 
