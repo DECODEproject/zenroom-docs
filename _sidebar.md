@@ -25,7 +25,7 @@
   - [Lotionroom](https://github.com/dyne/lotionroom/blob/master/README.md "Zenroom on LotionJS")
   - [Redroom](https://github.com/DECODEproject/Zenroom/wiki/Redis "Redroom")
   - [Sawroom](https://github.com/DECODEproject/Sawroom "Sawroom")
-  - [Restroom](https://github.com/DECODEproject/restroom "Restroom")
+  - [Restroom](https://github.com/dyne/restroom ':include')
 
 
 
