@@ -13,6 +13,10 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+		search: {
+			paths: "auto",
+			placeholder: 'Type to search',
+		},
       name: '',
       repo: '',
       loadSidebar: true,
@@ -20,7 +24,7 @@
       auto2top: true,
       coverpage: false,
       themeColor: '#0F68AA',
-      loadNavbar: true,
+      loadNavbar: false,
       remoteMarkdown: {
         tag: 'remote',
       },
@@ -28,6 +32,7 @@
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-remote-markdown/dist/docsify-remote-markdown.min.js"></script>
 </body>
 </html>
