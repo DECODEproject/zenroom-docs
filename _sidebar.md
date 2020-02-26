@@ -3,7 +3,7 @@
   - [Embed](embed.md "Embed")
   - [Execute](execute.md "Execute")
   - [Web-based demo](https://dev.zenroom.org/demo "Web-based sandbox")
-  
+
 - Programming 
   - [Zencode](zencode.md "Zencode")
   - Lua
@@ -22,10 +22,10 @@
 
 
 - Extensions
-  - [Lotionroom](https://github.com/dyne/lotionroom/blob/master/README.md "Zenroom on LotionJS")
-  - [Redroom](https://github.com/DECODEproject/Zenroom/wiki/Redis "Redroom")
-  - [Sawroom](https://github.com/DECODEproject/Sawroom "Sawroom")
-  - [Restroom](https://github.com/dyne/restroom ':include')
+  - [Lotionroom](/remote/lotionroom.md)
+  - [Redroom](/remote/redroom.md)
+  - [Sawroom](/remote/sawroom.md)
+  - [Restroom](/remote/restroom.md)
 
 
 
