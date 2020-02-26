@@ -12,7 +12,7 @@
    - [Functional](/lua/lua-functional "Functional")
    - [StateMachine](/lua/lua-statemachine "StateMachine")
 
-Bindings
+- Bindings
   - [JavaScript](/programming/javascript.md "Use Zenroom in JavaScript")
   - [Python](/programming/python.md "Use Zenroom in JavaScript")
 
