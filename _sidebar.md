@@ -2,6 +2,7 @@
   - [Build](build.md "Build Zenroom")
   - [Embed](embed.md "Embed")
   - [Execute](execute.md "Execute")
+  - [Web-based demo](https://dev.zenroom.org/demo "Web-based sandbox")
   
 - Programming 
   - [Zencode](zencode.md "Zencode")
