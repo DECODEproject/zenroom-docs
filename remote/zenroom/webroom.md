@@ -1,0 +1,1 @@
+[remote](https://raw.githubusercontent.com/DECODEproject/Zenroom/master/docs/website/docs/encrypt.md)
