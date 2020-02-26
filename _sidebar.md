@@ -10,7 +10,8 @@
   - [Web-based demo](https://dev.zenroom.org/demo "Web-based sandbox")
 
 - Programming 
-  - [Zencode](zencode.md "Zencode")
+  - [Zencode](/remote/zenroom/zencode.md "Zencode")
+<!--- https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/zencode.md  --->
   - Lua
    - [Crypto](/remote/lua/lua-crypto.md "Crypto in Lua")
 <!--- https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/crypto.md --->

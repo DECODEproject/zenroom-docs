@@ -1,1 +1,1 @@
-[remote](https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/zencode.md)
+[remote](https://raw.githubusercontent.com/DECODEproject/Zenroom/master/docs/website/docs/zencode.md)
