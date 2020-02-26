@@ -12,6 +12,10 @@
    - [Functional](/lua/lua-functional "Functional")
    - [StateMachine](/lua/lua-statemachine "StateMachine")
 
+Bindings
+  - [JavaScript](/programming/javascript.md "Use Zenroom in JavaScript")
+  - [Python](/programming/python.md "Use Zenroom in JavaScript")
+
 - Docs
   - [Cortex M](/docs/cortex.md "Cortex M")
   - [Random and Determinism](/docs/random.md "Random")
