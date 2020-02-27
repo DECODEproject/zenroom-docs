@@ -9,10 +9,10 @@
 }
   
 body {
-    font-size: 100%;
-    line-height: 1.5;
+    font-size: 20px;
+    line-height: 32px;
     color: var(--text-color-base);
-    font-family: 'Source Sans Pro','Open Sans','Helvetica Neue',Arial,sans-serif;
+    /* font-family: 'Source Sans Pro','Open Sans','Helvetica Neue',Arial,sans-serif; */
   }
   
   * {
@@ -23,7 +23,10 @@ body {
     transition: all 0.3s linear;
   }
   
-
+  .markdown-section pre>code,
+  .markdown-section code {
+      font-size: 1rem;
+  }
   /****** Sidebar ******/
 
   .sidebar ul li a {
@@ -207,5 +210,5 @@ body {
   
   /****** COPY TO CLIPBOARD ******/
   .docsify-copy-code-button {
-    font-size: 0.7em !important;
+    font-size: 0.5em !important;
   }
