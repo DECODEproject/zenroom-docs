@@ -1,6 +1,6 @@
  
 :root {
-    --theme-color: #ff3860;
+    --theme-color: #00d1b2;
     --theme-color-dark: #00d1b2;
   
     --text-color-base: #2e2e46;
@@ -8,7 +8,7 @@
     --text-color-tertiary: #81818e;
 }
   
-  body {
+body {
     font-size: 100%;
     line-height: 1.5;
     color: var(--text-color-base);
