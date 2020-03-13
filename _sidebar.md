@@ -1,47 +1,50 @@
-- [Getting started](README.md "Zenroom")
-  - [Build](/remote/zenroom/build.md "Build Zenroom")  
-<!--- https://github.com/DECODEproject/Zenroom/wiki/Build ---> 
-  - [Embed](/remote/zenroom/embed.md "Embed") 
-<!--- https://github.com/DECODEproject/Zenroom/wiki/Embed ---> 
-  - [Execute](/remote/zenroom/execute.md "Execute")
-<!--- https://github.com/DECODEproject/Zenroom/wiki/Execute  ---> 
-  - [Web-encryption demo](/remote/zenroom/webroom.md "Web-based sandbox")
-<!--- https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/encrypt.md  ---> 
-  - [Web-based demo](https://dev.zenroom.org/demo "Web-based sandbox")
+* [Getting Started](/)
+ - [Download binaries](https://zenroom.org/#downloads "Download Zenroom") 
+ - [Zenroom CLI](/pages/how-to-exec.md "Execute") 
+<!--- aggiungere par -z  --->
+ - [Zenroom as a lib](/pages/how-to-embed.md "Embed") 
+ - [Web-based demo](https://dev.zenroom.org/demo "Web-based sandbox")
+ - [Browser-encryption demo](/pages/encrypt.md "Browser-encryption demo")
+<!--- to remove https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/encrypt.md  ---> 
+
 
 - Programming 
-  - [Zencode](/remote/zenroom/zencode.md "Zencode")
-<!--- https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/zencode.md  --->
-  - Lua
-   - [Crypto](/remote/lua/lua-crypto.md "Crypto in Lua")
-<!--- https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/crypto.md --->
-   - [Syntax](/remote/lua/lua-syntax "Syntax")
-<!--- https://github.com/DECODEproject/Zenroom/wiki/Syntax --->
-   - [Functional](/remote/lua/lua-functional "Functional")
-<!--- https://github.com/DECODEproject/Zenroom/wiki/Functional --->
-   - [StateMachine](/remote/lua/lua-statemachine "StateMachine")
-<!--- https://github.com/DECODEproject/Zenroom/wiki/StateMachine --->
+  - [Zencode](/pages/zencode.md "Zencode")
+  - [Lua](/pages/lua.md "in Lua")
+
+ - [Zenroom whitepaper](/pages/whitepaper.md)
 
 - Bindings
-  - [JavaScript](/remote/programming/javascript.md "Use Zenroom in JavaScript")
-<!--- https://github.com/DECODEproject/Zenroom/blob/master/bindings/javascript/README.md --->
-  - [Python](/remote/programming/python.md "Use Zenroom in JavaScript")
-<!--- https://github.com/DECODEproject/Zenroom/blob/master/bindings/python3/README.md ---> 
+  - [JavaScript](/pages/javascript.md "Use Zenroom in JavaScript")
+<!--- link to https://github.com/DECODEproject/Zenroom/blob/master/bindings/javascript/README.md --->
+  - [Python](/pages/python.md "Use Zenroom in JavaScript")
+<!--- link to https://github.com/DECODEproject/Zenroom/blob/master/bindings/python3/README.md ---> 
 
-- Docs
-  - [Cortex M](/remote/docs/cortex.md "Cortex M")
-<!--- https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/random.md ---> 
-  - [Random and Determinism](/remote/docs/random.md "Random")
-<!--- https://github.com/DECODEproject/Zenroom/wiki/Cortex ---> 
+- Tutorials
+ - [Zenroom in node.js](/pages/zenroom-javascript1.md "Use Zenroom in node.js")
+ - [Zenroom in the browser](/pages/zenroom-javascript2.md "Use Zenroom in the browser")
+ - [Zenroom in React](/pages/zenroom-javascript3.md "Use Zenroom in React")
+
 
 - Extensions
-  - [Lotionroom](/remote/lotionroom.md)
+ - [Redroom](/pages/redroom.md)
+<!--- Link to https://github.com/DECODEproject/RedRoom/blob/master/docs/website/docs/README.md ---> 
+ - [Lotionroom](/pages/lotionroom.md)
 <!--- https://github.com/dyne/lotionroom ---> 
-  - [Redroom](/remote/redroom.md)
-<!--- https://github.com/DECODEproject/RedRoom ---> 
-  - [Sawroom](/remote/sawroom.md)
-<!--- https://github.com/DECODEproject/Sawroom ---> 
-  - [Restroom](/remote/restroom.md)
-<!--- https://github.com/DECODEproject/restroom ---> 
+ - [Sawroom](/pages/sawroom.md)
+<!--- link to https://github.com/DECODEproject/Sawroom/blob/master/website/docs/README.md ---> 
+ - [RESTroom](/pages/restroom.md)
+<!--- link to https://github.com/dyne/restroom/blob/master/README.md ---> 
+
+- Build 
+ - [Build instructions](/pages/how-to-build.md "Build Zenroom")  
+ - [Zenroom on Cortex M](/pages/cortex.md)
 
 
+* [CHANGELOG](CHANGELOG)
+
+* [CONTRIBUTING](CONTRIBUTING)
+
+* [TODO](TODO)
+
+<!--- Java example --->
