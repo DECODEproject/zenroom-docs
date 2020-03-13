@@ -1,9 +1,9 @@
 * [Getting Started](/)
- - [Download binaries](https://zenroom.org/#downloads "Download Zenroom") 
+ - <a href="https://zenroom.org/#downloads">🌐 Download binaries</a> 
  - [Zenroom CLI](/pages/how-to-exec.md "Execute") 
 <!--- aggiungere par -z  --->
  - [Zenroom as a lib](/pages/how-to-embed.md "Embed") 
- - [Web-based demo](https://dev.zenroom.org/demo "Web-based sandbox")
+ -  <a href="https://dev.zenroom.org/demo">🌐 Web-based demo</a>
  - [Browser-encryption demo](/pages/encrypt.md "Browser-encryption demo")
 <!--- to remove https://github.com/DECODEproject/Zenroom/blob/master/docs/website/docs/encrypt.md  ---> 
 
